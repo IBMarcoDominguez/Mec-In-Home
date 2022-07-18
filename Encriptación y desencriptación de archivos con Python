@@ -1,7 +1,8 @@
 Proyecto: Encriptación y desencriptación de archivos con Python
 Desarrolador por: IBMarcoDomínguez
 
-Fc: Marco Dominguez
+Facebook: Marco Dominguez
+gmail: dominguezgonzalez117@gmail.com
 
 import argparse
 from cryptography.fernet import Fernet
